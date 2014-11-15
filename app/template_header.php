@@ -9,7 +9,6 @@
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     
-    
     <link href="../css/estilos.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -42,46 +41,3 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-
-    <div class="container">
-      <div class="starter-template">
-        <h1>MUSIC-DB</h1>
-        <p class="lead">Bienvenido a la mas grande base de datos de canciones. Para agregar artistas, albumes o canciones, da clic en los menús correspondientes en el menú superior</p>
-      </div>
-      <div class="row">
-      	<div class="col-md-4">
-        	<img src="../img/acdc.jpeg" alt="AC/DC" class="img-circle">
-        </div>
-      	<div class="col-md-4">
-        	<img src="../img/doors.jpeg" alt="Led Zeppelin" class="img-circle">
-        </div>
-      	<div class="col-md-4">
-        	<img src="../img/ledzep.jpeg" alt="The Doors" class="img-circle">
-        </div>
-      </div>
-    </div><!-- /.container -->
-
-  
-  
-  
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="../js/jquery.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="../js/bootstrap.min.js"></script>
-  </body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
